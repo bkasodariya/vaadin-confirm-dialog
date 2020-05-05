@@ -1,4 +1,4 @@
-# Paper Slider
+# vaadin-confirmation-dialog
 
 Vaadin 14 Java plugin for confirmation dialog 
 
