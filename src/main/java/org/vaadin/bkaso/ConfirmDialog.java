@@ -11,7 +11,7 @@ import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
  * @author bharatk
  *
  */
-interface OkEvent {
+public interface OkEvent {
 	void execute(ComponentEvent<Button> clickEvent);
 }
 
